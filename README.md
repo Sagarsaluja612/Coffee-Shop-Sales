@@ -1,4 +1,4 @@
-# Coffee - shop - sales - analysis
+# Coffee - Shop - Sales - Analysis
 
 ## 📊 Project Overview
 
